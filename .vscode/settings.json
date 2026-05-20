@@ -1,0 +1,11 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "git checkout": true,
+        "git push": true,
+        "/workspaces/skills-build-applications-w-copilot-agent-mode/octofit-tracker/backend/venv/bin/pip": true,
+        "true": true,
+        "git remote": true,
+        "git add": true,
+        "git commit": true
+    }
+}
